@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StarMatch - Anime Matchmaker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen bg-no-repeat bg-bottom flex flex-col items-center justify-center text-center"
+    style="background-image: url('assets/bg.png'); background-repeat: repeat-x; background-size: auto 100%; background-position: 0% 100%; animation: slideBg 10s linear infinite; font-family: 'Baloo 2', cursive;">
+
+
+    <div class="p-6">
+        <h1 class="text-6xl md:text-8xl font-extrabold text-black mb-8 tracking-wide">
+            STARMATCH
+        </h1>
+        <p class="text-lg sm:text-xl md:text-2xl text-gray-800 max-w-md mx-auto mb-8">
+            Discover which anime character is your vibe twin
+        </p>
+        <button id="startBtn"
+            class="w-4/5 max-w-xs sm:w-auto px-6 sm:px-8 py-3 sm:py-4 rounded-2xl bg-white text-black font-extrabold text-xl sm:text-3xl shadow-lg hover:bg-purple-100 transition-transform duration-200 ease-in-out active:scale-95"
+            style="border: 8px solid #B37DFF;">
+            START MATCH
+        </button>
+
+
+
+
+    </div>
+
+    <img src="assets/chibi_background_fade.png" alt="Cute chibi background"
+        class="absolute bottom-0 opacity-10 w-full max-h-[300px] object-cover pointer-events-none">
+
+    <style>
+        @keyframes slideBg {
+            from {
+                background-position: 0% 100%;
+            }
+
+            to {
+                background-position: 100% 100%;
+            }
+        }
+
+        .bounce-click {
+            animation: bounce-scale 300ms ease-out forwards;
+        }
+
+        @keyframes bounce-scale {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(0.899);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        @keyframes fade-in {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animate-fade-in {
+            animation: fade-in 1s ease-out forwards;
+        }
+    </style>
+</body>
+
+<script>
+    const button = document.getElementById('startBtn');
+
+    button.addEventListener('click', () => {
+        button.classList.add('bounce-click');
+
+        // Delay before redirection
+        setTimeout(() => {
+            window.location.href = 'zodiac.html';
+        }, 400);
+
+        // Reset the animation class for next clicks
+        setTimeout(() => {
+            button.classList.remove('bounce-click');
+        }, 500);
+    });
+</script>
+
+
+</html>

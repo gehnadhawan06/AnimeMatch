@@ -1,0 +1,162 @@
+body {
+  background: linear-gradient(to bottom right, #fef4ff, #e5d4ff);
+  font-family: 'Baloo 2', cursive;
+  color: #4b3a7f;
+  padding: 20px;
+  margin: 0;
+}
+
+/* 💫 Container */
+.quiz-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 40px 30px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 25px;
+  box-shadow: 0 8px 30px rgba(135, 89, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+/* 🎀 Title */
+.quiz-container h1 {
+  font-size: 2.2rem;
+  text-align: center;
+  color: #6c3eb4;
+  margin-bottom: 35px;
+}
+
+/* ❓ Question block */
+.quiz-question,
+.question {
+  margin-bottom: 30px;
+}
+
+.quiz-question h2,
+.question h2 {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+  color: #533089;
+}
+
+/* 🔘 Radio Options - Hidden buttons + Styled labels */
+.options input[type="radio"],
+.question input[type="radio"] {
+  display: none;
+}
+
+.options label,
+.question label {
+  display: block;
+  background-color: #f3e8ff;
+  padding: 12px 16px;
+  border-radius: 15px;
+  margin: 8px 0;
+  font-size: 1rem;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 0.25s ease-in-out;
+  position: relative;
+}
+
+/* Highlight selected label */
+.options input[type="radio"]:checked + label,
+.question input[type="radio"]:checked + label {
+  background-color: #d8b8ff;
+  border-color: #894fff;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0 0 12px rgba(153, 90, 255, 0.3);
+}
+
+/* Hover style */
+.options label:hover,
+.question label:hover {
+  background-color: #e7d4ff;
+  border-color: #a88beb;
+}
+
+/* 🪄 Quirk Tags */
+.quirk-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.quirk-btn {
+  padding: 10px 18px;
+  border-radius: 20px;
+  border: 2px solid #a288d9;
+  background-color: #f2ecff;
+  color: #5a3f9b;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.quirk-btn.selected {
+  background-color: #c89aff;
+  color: white;
+  border-color: #854bff;
+}
+
+/* 📝 Textarea */
+textarea {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 14px;
+  border: 1px solid #d5c0f7;
+  resize: none;
+  background: #f9f3ff;
+}
+
+/* 🚀 Submit Button */
+.submit-container {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+button {
+  background: linear-gradient(135deg, #a56bff, #8250f5);
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(145, 109, 255, 0.3);
+}
+
+button:hover {
+  background: linear-gradient(135deg, #7b4de9, #6938da);
+  box-shadow: 0 6px 24px rgba(120, 86, 255, 0.4);
+}
+
+/* 📱 Responsive Magic */
+@media (max-width: 600px) {
+  .quiz-container {
+    padding: 25px 18px;
+    margin: 20px;
+  }
+
+  .quiz-container h1 {
+    font-size: 1.6rem;
+  }
+
+  .quiz-question h2,
+  .question h2 {
+    font-size: 1rem;
+  }
+
+  .quirk-btn {
+    font-size: 0.9rem;
+    padding: 8px 14px;
+  }
+
+  button {
+    font-size: 0.95rem;
+    padding: 10px 18px;
+  }
+}

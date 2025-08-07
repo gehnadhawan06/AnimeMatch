@@ -1,0 +1,550 @@
+[
+  {
+    "zodiac": "Aries",
+    "symbol": "♈",
+    "dates": "March 21 – April 19",
+    "element": "Fire",
+    "planet": "Mars",
+    "vibe": "Blazing headfirst into life with chaotic charm and a warrior’s heart.",
+    "traits": [
+      "bold",
+      "ambitious",
+      "impulsive",
+      "confident",
+      "motivated",
+      "competitive",
+      "blunt",
+      "loyal",
+      "explosive",
+      "energetic",
+      "natural leader",
+      "highly motivated",
+      "inspires others",
+      "bold and daring",
+      "loyal and passionate",
+      "quick-tempered",
+      "impulsive decision-making",
+      "impatient with details",
+      "self-centered at times",
+      "speaks before thinking"
+    ],
+    "vibe_description": "Aries is the type to volunteer for a group project and take over in the first 3 minutes...",
+    "fun_quotes": [
+      "Think later. Act now. Crash into glory.",
+      "Yes, I volunteered. No, I’m not waiting for instructions.",
+      "Catch up or get scorched 🔥"
+    ],
+    "advice_dos": [
+      "Use that fire to lead with purpose, not just chaos.",
+      "Find a physical or creative outlet for that bottled-up rage.",
+      "Hype your friends like the fearless motivator you are."
+    ],
+    "advice_donts": [
+      "Don’t ghost people mid-rant and expect them to know you still care.",
+      "Avoid turning minor setbacks into battlefield-worthy drama.",
+      "Don’t confuse speed with progress — slow isn’t always bad."
+    ]
+  },
+  {
+    "zodiac": "Taurus",
+    "symbol": "♉",
+    "dates": "April 20 – May 20",
+    "element": "Earth",
+    "planet": "Venus",
+    "vibe": "Grounded luxury and unbothered peace, until provoked.",
+    "traits": [
+      "stable",
+      "practical",
+      "luxury-loving",
+      "loyal",
+      "patient",
+      "stubborn",
+      "sensual",
+      "protective",
+      "comfort-seeking",
+      "realistic",
+      "reliable and steady",
+      "highly loyal",
+      "great with finances",
+      "appreciates beauty and art",
+      "emotionally grounded",
+      "resistant to change",
+      "overly stubborn",
+      "holds grudges",
+      "can be possessive",
+      "overindulges in comfort"
+    ],
+    "vibe_description": "Taurus will choose a silent battle over loud chaos. They don’t shout—they wait. And then win.",
+    "fun_quotes": [
+      "If vibes were currency, I’d still choose comfort.",
+      "It’s not laziness. It’s strategic energy preservation.",
+      "I don’t chase. I attract. And if not? I nap."
+    ],
+    "advice_dos": [
+      "Stay consistent but open to flexibility.",
+      "Surround yourself with people who respect your rhythm.",
+      "Lean into your aesthetic side—it’s healing."
+    ],
+    "advice_donts": [
+      "Don’t confuse stability with stagnation.",
+      "Let go of grudges—they're cluttering your inner peace.",
+      "Stop pretending you’re not hurt. Just say it, once in a while."
+    ]
+  },
+  {
+    "zodiac": "Gemini",
+    "symbol": "♊",
+    "dates": "May 21 – June 20",
+    "element": "Air",
+    "planet": "Mercury",
+    "vibe": "Chaotic curiosity and the human equivalent of five open tabs at once.",
+    "traits": [
+      "witty",
+      "adaptable",
+      "curious",
+      "expressive",
+      "intelligent",
+      "indecisive",
+      "restless",
+      "clever",
+      "sociable",
+      "versatile",
+      "excellent communicator",
+      "always curious and learning",
+      "energetic and social",
+      "flexible thinker",
+      "multitasking genius",
+      "scattered focus",
+      "commitment-phobic",
+      "gets bored easily",
+      "overthinks decisions",
+      "can be seen as two-faced"
+    ],
+    "vibe_description": "Gemini is that friend who texts you a meme, asks a deep life question, and then disappears mid-convo because they found a pigeon.",
+    "fun_quotes": [
+      "I’m not indecisive. I just want both.",
+      "Why choose one vibe when you can switch hourly?",
+      "If I talk fast, it’s because my brain’s buffering."
+    ],
+    "advice_dos": [
+      "Pick one idea today and stick with it.",
+      "Share your depth—not just your jokes.",
+      "Journal your million thoughts before you combust."
+    ],
+    "advice_donts": [
+      "Don’t jump ship when things get serious—some stability won’t kill you.",
+      "Stop ghosting mid-convo because you got distracted.",
+      "Avoid overthinking every text—just send it."
+    ]
+  },
+  {
+    "zodiac": "Cancer",
+    "symbol": "♋",
+    "dates": "June 21 – July 22",
+    "element": "Water",
+    "planet": "Moon",
+    "vibe": "Emotional support hotline, but also might block you if you act cold.",
+    "traits": [
+      "empathetic",
+      "nurturing",
+      "protective",
+      "emotional",
+      "loyal",
+      "moody",
+      "sensitive",
+      "intuitive",
+      "home-loving",
+      "clingy",
+      "deeply caring",
+      "protective of loved ones",
+      "creative",
+      "emotionally intelligent",
+      "easily hurt",
+      "clings to the past",
+      "passive-aggressive",
+      "mood swings",
+      "hard to open up"
+    ],
+    "vibe_description": "They’ll feed you, listen to you cry, and secretly judge who hurt you while knitting revenge.",
+    "fun_quotes": [
+      "I care too much, and that’s your problem now.",
+      "You hurt my feelings? Cool. Watch your back and your birthday.",
+      "Home isn’t a place—it’s me."
+    ],
+    "advice_dos": [
+      "Create boundaries even with people you love.",
+      "Let others take care of you sometimes too.",
+      "Embrace your moods—don’t drown in them."
+    ],
+    "advice_donts": [
+      "Don’t emotionally guilt-trip—it’s not cute.",
+      "Avoid bottling up your real feelings behind jokes.",
+      "Don’t let nostalgia stop you from living now."
+    ]
+  },
+  {
+    "zodiac": "Leo",
+    "symbol": "♌",
+    "dates": "July 23 – August 22",
+    "element": "Fire",
+    "planet": "Sun",
+    "vibe": "Main character energy with a hint of drama and a whole lot of loyalty.",
+    "traits": [
+      "confident",
+      "charismatic",
+      "loyal",
+      "ambitious",
+      "dramatic",
+      "generous",
+      "warm",
+      "attention-loving",
+      "bold",
+      "proud",
+      "inspiring leader",
+      "protective",
+      "magnetic presence",
+      "creative",
+      "craves praise",
+      "self-absorbed",
+      "stubborn",
+      "reacts dramatically",
+      "validation-seeking",
+      "struggles with criticism"
+    ],
+    "vibe_description": "If royalty was a personality trait, Leo would trademark it and wear a crown to brunch.",
+    "fun_quotes": [
+      "Born to shine. Dim the lights if you must.",
+      "Confidence isn’t arrogance—it’s knowing your worth.",
+      "If loyalty was currency, I’m priceless."
+    ],
+    "advice_dos": [
+      "Share the spotlight—it won’t dim yours.",
+      "Let your softness show more often.",
+      "Praise others as much as you like being praised."
+    ],
+    "advice_donts": [
+      "Don’t take criticism as a personal attack.",
+      "Avoid steamrolling quieter personalities.",
+      "Tone down the dramatic exits—sometimes a quiet leave is louder."
+    ]
+  },
+  {
+    "zodiac": "Virgo",
+    "symbol": "♍",
+    "dates": "August 23 – September 22",
+    "element": "Earth",
+    "planet": "Mercury",
+    "vibe": "Your favorite overthinking perfectionist with a healing aura and a spreadsheet for everything.",
+    "traits": [
+      "analytical",
+      "organized",
+      "practical",
+      "modest",
+      "critical",
+      "kind",
+      "diligent",
+      "observant",
+      "loyal",
+      "realistic",
+      "problem-solver",
+      "reliable",
+      "detail-oriented",
+      "planner",
+      "overthinker",
+      "nitpicky",
+      "self-critical",
+      "tense",
+      "emotionally reserved"
+    ],
+    "vibe_description": "The friend who knows your exact coffee order and your trauma triggers but still insists you're ‘fine.’",
+    "fun_quotes": [
+      "I’m not controlling. I just... know better.",
+      "If it’s not perfect, I’ll redo it until I cry.",
+      "Overthinking is my cardio."
+    ],
+    "advice_dos": [
+      "Let yourself rest—chaos doesn’t mean failure.",
+      "Ask for help before you burn out.",
+      "Let people in, flaws and all."
+    ],
+    "advice_donts": [
+      "Don’t correct everything—it’s okay to let small things go.",
+      "Stop trying to fix everyone else first.",
+      "Don’t confuse criticism with care."
+    ]
+  },
+  {
+    "zodiac": "Libra",
+    "symbol": "♎",
+    "dates": "September 23 – October 22",
+    "element": "Air",
+    "planet": "Venus",
+    "vibe": "Flirtatious diplomacy meets aesthetic obsession and social finesse.",
+    "traits": [
+      "charming",
+      "diplomatic",
+      "fair",
+      "indecisive",
+      "romantic",
+      "stylish",
+      "peaceful",
+      "balanced",
+      "social",
+      "idealistic",
+      "peacemaker",
+      "good listener",
+      "excellent taste",
+      "kind",
+      "people-pleaser",
+      "avoids confrontation",
+      "struggles to say no",
+      "surface-level emotions",
+      "emotionally evasive"
+    ],
+    "vibe_description": "They’ll ghost a toxic friend then text you a playlist and an apology paragraph for being ‘too dramatic.’",
+    "fun_quotes": [
+      "I choose peace. Unless you test me.",
+      "Outfits reflect my emotional state. Yes, today it’s pastel rage.",
+      "I want everyone to be happy… starting with me."
+    ],
+    "advice_dos": [
+      "Take time to figure out what you want—not just what others need.",
+      "Use that diplomacy to set boundaries too.",
+      "Honor your true feelings beneath the charm."
+    ],
+    "advice_donts": [
+      "Stop dodging conflict by vanishing emotionally.",
+      "Don’t agree just to keep the peace.",
+      "Don’t base your worth on being liked."
+    ]
+  },
+  {
+    "zodiac": "Scorpio",
+    "symbol": "♏",
+    "dates": "October 23 – November 21",
+    "element": "Water",
+    "planet": "Pluto / Mars",
+    "vibe": "Emotionally intense detective who feels everything but shows nothing (unless they trust you).",
+    "traits": [
+      "intense",
+      "mysterious",
+      "passionate",
+      "loyal",
+      "private",
+      "emotional",
+      "strategic",
+      "transformative",
+      "protective",
+      "resilient",
+      "emotionally deep",
+      "highly intuitive",
+      "unbreakably loyal",
+      "focused",
+      "fearless",
+      "secretive",
+      "jealous",
+      "holds grudges",
+      "controlling",
+      "paranoid"
+    ],
+    "vibe_description": "You’ll never know what they’re planning, but it’s either revenge, love, or both.",
+    "fun_quotes": [
+      "Don’t ask what’s wrong—you should already know.",
+      "Love me or fear me. Or both. It works.",
+      "My loyalty is earned—not assumed."
+    ],
+    "advice_dos": [
+      "Let your guard down—vulnerability isn’t weakness.",
+      "Use your intensity for creation, not destruction.",
+      "Talk it out instead of plotting."
+    ],
+    "advice_donts": [
+      "Stop testing people silently—they can’t read your mind.",
+      "Don’t seek revenge—seek peace.",
+      "Avoid pushing people away out of fear of being hurt."
+    ]
+  },
+  {
+    "zodiac": "Sagittarius",
+    "symbol": "♐",
+    "dates": "November 22 – December 21",
+    "element": "Fire",
+    "planet": "Jupiter",
+    "vibe": "Freedom-loving, philosophy-preaching wild card with wanderlust and blunt jokes.",
+    "traits": [
+      "adventurous",
+      "honest",
+      "independent",
+      "optimistic",
+      "philosophical",
+      "reckless",
+      "restless",
+      "funny",
+      "curious",
+      "truth-seeking",
+      "positive outlook",
+      "loves growth and learning",
+      "blunt honesty",
+      "humorous",
+      "overpromises",
+      "avoids commitment",
+      "easily bored",
+      "runs from emotions"
+    ],
+    "vibe_description": "They’ll ask deep life questions and disappear mid-convo to book a spontaneous trip to the mountains.",
+    "fun_quotes": [
+      "I’m not lost—I’m exploring.",
+      "Don’t tie me down unless you’re taking me skydiving.",
+      "Truth hurts. But so does lying, sooo…"
+    ],
+    "advice_dos": [
+      "Channel your restlessness into passion projects.",
+      "Tell the truth, but try a gentle delivery.",
+      "Appreciate people who stay—don’t run."
+    ],
+    "advice_donts": [
+      "Don’t joke away real feelings.",
+      "Avoid ghosting when it gets too deep.",
+      "Stop chasing what’s new and nurture what’s real."
+    ]
+  },
+  {
+    "zodiac": "Capricorn",
+    "symbol": "♑",
+    "dates": "December 22 – January 19",
+    "element": "Earth",
+    "planet": "Saturn",
+    "vibe": "CEO energy but lowkey emotionally soft—just don’t mention it.",
+    "traits": [
+      "disciplined",
+      "ambitious",
+      "practical",
+      "reserved",
+      "responsible",
+      "stoic",
+      "strategic",
+      "realistic",
+      "determined",
+      "traditional",
+      "incredibly hard-working",
+      "master planner",
+      "emotionally strong",
+      "reliable",
+      "loyal",
+      "sharp wit",
+      "overworks themselves",
+      "too serious",
+      "emotionally guarded",
+      "judgmental",
+      "work over fun"
+    ],
+    "vibe_description": "Has five backup plans, a retirement account at 20, and still rolls their eyes at rom-coms—secretly loves them though.",
+    "fun_quotes": [
+      "Work first, panic later (but privately).",
+      "My love language is helping you succeed.",
+      "I'm not cold—I just schedule emotions on weekends."
+    ],
+    "advice_dos": [
+      "Take breaks—you deserve to breathe.",
+      "Let yourself be goofy sometimes.",
+      "Express your feelings—don’t bury them."
+    ],
+    "advice_donts": [
+      "Don’t let pride keep you from asking for help.",
+      "Avoid judging others by their efficiency.",
+      "Don’t confuse success with worth."
+    ]
+  },
+  {
+    "zodiac": "Aquarius",
+    "symbol": "♒",
+    "dates": "January 20 – February 18",
+    "element": "Air",
+    "planet": "Uranus / Saturn",
+    "vibe": "Quirky rebel genius who claims they don’t care but absolutely does at 2 AM.",
+    "traits": [
+      "independent",
+      "innovative",
+      "eccentric",
+      "idealistic",
+      "detached",
+      "intellectual",
+      "rebellious",
+      "progressive",
+      "analytical",
+      "visionary",
+      "big-picture thinker",
+      "creative and original",
+      "caring in weird ways",
+      "great listener (once they trust you)",
+      "open-minded",
+      "emotionally aloof",
+      "rebellious for fun",
+      "unpredictable",
+      "judgy about 'normal' people",
+      "hard to pin down"
+    ],
+    "vibe_description": "Talks about AI ethics while painting their nails neon and ghosting group chats.",
+    "fun_quotes": [
+      "I’m not ignoring you—I’m just in another dimension.",
+      "Why fit in when you can cause a minor revolution?",
+      "Feelings are fine... just not all the time."
+    ],
+    "advice_dos": [
+      "Stay weird—but stay grounded.",
+      "Tell people you care—it won’t kill you.",
+      "Let others challenge your ideas."
+    ],
+    "advice_donts": [
+      "Don’t detach the moment things get real.",
+      "Avoid ghosting—it confuses people who care.",
+      "Don’t intellectualize your emotions too much."
+    ]
+  },
+  {
+    "zodiac": "Pisces",
+    "symbol": "♓",
+    "dates": "February 19 – March 20",
+    "element": "Water",
+    "planet": "Neptune / Jupiter",
+    "vibe": "Dreamy, creative, emotionally psychic... and slightly dramatic when overstimulated.",
+    "traits": [
+      "intuitive",
+      "compassionate",
+      "dreamy",
+      "creative",
+      "sensitive",
+      "romantic",
+      "gentle",
+      "emotional",
+      "artistic",
+      "escapist",
+      "empathic",
+      "emotionally wise",
+      "supportive",
+      "forgiving",
+      "spiritually tuned",
+      "too passive",
+      "easily overwhelmed",
+      "escapes reality",
+      "naive",
+      "hard to say no"
+    ],
+    "vibe_description": "Feels your vibe before you speak, might cry at sunsets, and has an entire alternate universe in their head.",
+    "fun_quotes": [
+      "I felt that... even if you didn’t say it.",
+      "Reality is fine, but dreams are better.",
+      "I love love. Even if it wrecks me."
+    ],
+    "advice_dos": [
+      "Ground yourself in routine—it helps.",
+      "Say no when you need to.",
+      "Use your imagination for healing, not hiding."
+    ],
+    "advice_donts": [
+      "Don’t lose yourself in others’ emotions.",
+      "Avoid over-romanticizing toxic situations.",
+      "Don’t run from problems—swim through them."
+    ]
+  }
+]

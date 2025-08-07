@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personality Quiz</title>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stylesA.css" />
+</head>
+
+<body>
+  <div class="quiz-container">
+    <h1>🌙 Reveal Your Inner Anime Energy</h1>
+
+    <form id="traitForm" class="quiz-form">
+
+      <!-- Q1: Communication Style -->
+      <div class="question">
+        <h2>How do you express yourself?</h2>
+        <input type="radio" id="blunt" name="communication" value="blunt">
+        <label for="blunt">Blunt</label>
+
+        <input type="radio" id="diplomatic" name="communication" value="diplomatic">
+        <label for="diplomatic">Diplomatic</label>
+
+        <input type="radio" id="playful" name="communication" value="playful">
+        <label for="playful">Playful</label>
+
+        <input type="radio" id="reserved" name="communication" value="reserved">
+        <label for="reserved">Reserved</label>
+      </div>
+
+      <!-- Q2: Social Energy -->
+      <div class="question">
+        <h2>How do you recharge?</h2>
+        <input type="radio" id="introvert" name="socialEnergy" value="introvert">
+        <label for="introvert">Alone (Introvert)</label>
+
+        <input type="radio" id="extrovert" name="socialEnergy" value="extrovert">
+        <label for="extrovert">With People (Extrovert)</label>
+
+        <input type="radio" id="ambivert" name="socialEnergy" value="ambivert">
+        <label for="ambivert">Depends on Mood (Ambivert)</label>
+      </div>
+
+      <!-- Q3: Preferred Role -->
+      <div class="question">
+        <h2>Your usual role in a group?</h2>
+        <input type="radio" id="leader" name="role" value="leader">
+        <label for="leader">Leader</label>
+
+        <input type="radio" id="strategist" name="role" value="strategist">
+        <label for="strategist">Strategist</label>
+
+        <input type="radio" id="support" name="role" value="support">
+        <label for="support">Support</label>
+
+        <input type="radio" id="wildcard" name="role" value="wildcard">
+        <label for="wildcard">Wildcard</label>
+      </div>
+
+      <!-- Q4: Daily Quirks (Freeform) -->
+      <div class="question">
+        <h2>Describe yourself in 3 words</h2>
+        <textarea name="quirks" placeholder="e.g. Curious, loyal, chaotic" rows="3"></textarea>
+      </div>
+
+      <!-- Q5: Conflict Style -->
+      <div class="question">
+        <h2>When things get tense...</h2>
+        <input type="radio" id="avoidant" name="conflict" value="avoidant">
+        <label for="avoidant">Avoid it</label>
+
+        <input type="radio" id="direct" name="conflict" value="direct">
+        <label for="direct">Face it directly</label>
+
+        <input type="radio" id="humorous" name="conflict" value="humorous">
+        <label for="humorous">Joke it off</label>
+
+        <input type="radio" id="strategic" name="conflict" value="strategic">
+        <label for="strategic">Think through it</label>
+      </div>
+
+      <!-- Q6: Emotional Expression -->
+      <div class="question">
+        <h2>People say you're...</h2>
+        <input type="radio" id="expressive" name="emotion" value="expressive">
+        <label for="expressive">Expressive</label>
+
+        <input type="radio" id="mysterious" name="emotion" value="mysterious">
+        <label for="mysterious">Mysterious</label>
+
+        <input type="radio" id="calm" name="emotion" value="calm">
+        <label for="calm">Calm</label>
+
+        <input type="radio" id="explosive" name="emotion" value="explosive">
+        <label for="explosive">Explosive</label>
+      </div>
+
+      <!-- Q7: Thought Process -->
+      <div class="question">
+        <h2>You're more...</h2>
+        <input type="radio" id="intuitive" name="thinking" value="intuitive">
+        <label for="intuitive">Intuitive</label>
+
+        <input type="radio" id="logical" name="thinking" value="logical">
+        <label for="logical">Logical</label>
+
+        <input type="radio" id="emotional" name="thinking" value="emotional">
+        <label for="emotional">Emotional</label>
+
+        <input type="radio" id="impulsive" name="thinking" value="impulsive">
+        <label for="impulsive">Impulsive</label>
+      </div>
+
+      <!-- Submit Button -->
+      <div class="submit-container">
+        <button type="submit" id="submitQuizBtn">✨ Reveal My Anime Match ✨</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+
+</html>
