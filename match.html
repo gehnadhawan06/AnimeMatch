@@ -4,111 +4,24 @@
   <meta charset="UTF-8">
   <title>Your Zodiac Match ✨</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;800&display=swap" rel="stylesheet">
 
+
   <!-- Aesthetic CSS -->
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(to bottom, #1a1a2e, #16213e, #0f3460);
-      color: #f3f3f3;
-      font-family: 'Baloo 2', cursive;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
-
-    h1 {
-      font-family: 'Baloo 2', cursive;
-      font-size: 3rem;
-      color: #ffd369;
-      margin-bottom: 1rem;
-      text-align: center;
-    }
-
-    .match-container {
-      background-color: rgba(255, 255, 255, 0.08);
-      padding: 2rem;
-      border-radius: 20px;
-      max-width: 700px;
-      box-shadow: 0 0 20px rgba(255, 211, 105, 0.3);
-      backdrop-filter: blur(8px);
-      text-align: center;
-      animation: fadeIn 1.5s ease;
-    }
-
-    .match-container h2 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-      color: #ffdd93;
-    }
-
-    .match-container span {
-      font-size: 2.5rem;
-      color: #ffe066;
-    }
-
-    .vibe {
-      font-style: italic;
-      margin-top: 1rem;
-      color: #dddddd;
-    }
-
-    blockquote {
-      margin-top: 1rem;
-      font-style: italic;
-      color: #a3bffa;
-      border-left: 4px solid #ffe066;
-      padding-left: 1rem;
-    }
-
-    .shared-traits {
-      margin-top: 1rem;
-      font-size: 0.95rem;
-      line-height: 1.6;
-      color: #f0f0f0;
-    }
-
-    .btn {
-      margin-top: 2rem;
-      padding: 0.8rem 1.5rem;
-      background-color: #ffb703;
-      color: #1a1a2e;
-      border: none;
-      border-radius: 12px;
-      font-weight: bold;
-      font-size: 1rem;
-      cursor: pointer;
-      transition: transform 0.2s ease;
-    }
-
-    .btn:hover {
-      transform: scale(1.05);
-      background-color: #ffc94d;
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(30px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
+  <link rel="stylesheet" href="match.css">
 </head>
 
 <body>
-  <h1>Your Cosmic Match 🌌</h1>
+  <h1>Your Match</h1>
 
-  <div id="matchResult" class="match-container">
-    <!-- JS injects match result here -->
-  </div>
+  <div id="matchResult" class="match-container"></div>
 
-  <button class="btn" onclick="location.href='index.html'">🔁 Retake Quiz</button>
+  <button class="btn" onclick="location.href='index.html'">Retake Quiz</button>
 
   <script src="match.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
 </body>
 </html>
