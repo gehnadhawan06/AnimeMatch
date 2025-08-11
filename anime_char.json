@@ -371,5 +371,29 @@
             "tries to help even if it goes wrong",
             "small but sneaky"
         ]
+    },
+    {
+        "name": "Howl Jenkins Pendragon",
+        "anime": "Howl's Moving Castle",
+        "image": "assets/howl_chibi.png",
+        "traits": [
+            "attention-seeking",
+            "childlike behavior",
+            "forgiving",
+            "adorably dramatic",
+            "avoidant",
+            "witty",
+            "romantic but reluctant",
+            "materialistic",
+            "extravagant",
+            "emotionally evasive",
+            "self-absorbed",
+            "strategic thinker",
+            "fashion-conscious",
+            "manipulative for the greater good",
+            "secretly soft",
+            "independent",
+            "complex moral code"
+        ]
     }
 ]
